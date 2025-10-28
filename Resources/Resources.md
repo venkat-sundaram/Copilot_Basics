@@ -4,7 +4,7 @@
 
 | Category | Resource | Description | Link |
 |----------|----------|-------------|------|
-| **Official Docs** | GitHub Copilot Documentation | Comprehensive guide to GitHub Copilot | [View Documentation]([https://docs.github.com/en/copilot/](https://docs.github.com/en/enterprise-cloud@latest/copilot)) |
+| **Official Docs** | GitHub Copilot Documentation | Comprehensive guide to GitHub Copilot | [View Documentation](https://docs.github.com/en/enterprise-cloud@latest/copilot) |
 | **Features** | Copilot Features Overview | Detailed feature explanations and capabilities | [Explore Features](https://docs.github.com/en/enterprise-cloud@latest/copilot/get-started/features) |
 | **Tutorials** | Getting Started Tutorials | Step-by-step tutorials for beginners | [Start Learning](https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials) |
 | **API Reference** | GitHub Copilot REST API | Technical API documentation for developers | [API Docs](https://docs.github.com/en/enterprise-cloud@latest/rest/copilot) |
