@@ -22,5 +22,5 @@
 | **YouTube** | Official GitHub Channel | Product announcements and feature demos | [Subscribe](https://www.youtube.com/@GitHub/videos) |
 
 ---
-*Last updated: September 2025*
+*Last updated: October 2025*
 

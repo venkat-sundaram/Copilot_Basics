@@ -1,0 +1,6 @@
+# Global code ownership
+# This file defines code owners for the entire repository
+# Code owners are automatically requested for review when someone opens a pull request
+
+# Global ownership - venkat-sundaram owns everything in the repository
+* @venkat-sundaram
